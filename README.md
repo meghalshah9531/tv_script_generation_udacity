@@ -1,1 +1,1 @@
-# tv_script_generation_udacity
+# Fake TV Script Generation by LSTM 
